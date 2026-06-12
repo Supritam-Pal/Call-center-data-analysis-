@@ -1,3 +1,4 @@
+<img width="1090" height="542" alt="image" src="https://github.com/user-attachments/assets/1cb71947-81fe-4def-8364-b8d474bce2cf" />
 
 **Call Center Performance Dashboard**
 🚀 Overview
